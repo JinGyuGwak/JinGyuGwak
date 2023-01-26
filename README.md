@@ -1,4 +1,4 @@
-<h1>우직하게</h1>
+<h1>안녕하세요</h1>
 
 <!--
 **JinGyuGwak/JinGyuGwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
