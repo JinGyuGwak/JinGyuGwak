@@ -35,3 +35,6 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, OOP를 학습해
 ## Education 
 - 2017.03 ~ 2023.02 인천대학교 컴퓨터공학부 졸업
 - 2022.09 ~ 2023.03 SK플래닛 T아카데미 ASAC 웹풀스택 과정 1기 
+
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsrb2695)](https://solved.ac/wlsrb2695/)
