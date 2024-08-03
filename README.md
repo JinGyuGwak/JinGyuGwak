@@ -1,6 +1,6 @@
-## 안녕하세요! 꾸준히 성장하는 개발자 곽진규 입니다.😀
+## Hello 😀
 
-Hello ~ 
+My name is Jingyu Gwak
 
 ## 🛠 Skill 🛠 
 
@@ -9,6 +9,7 @@ Hello ~
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 
 
 ### DevOps
