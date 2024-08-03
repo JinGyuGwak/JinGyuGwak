@@ -1,14 +1,6 @@
 ## 안녕하세요! 꾸준히 성장하는 개발자 곽진규 입니다.😀
 
-프로그래밍과 기술에 대한 열정을 바탕으로, 저는 새로운 기술을 습득하고 이를 프로젝트에 적용하는 데 즐거움을 느낍니다.
-
-Java & Spring을 메인으로 cs, 자료구조와 알고리즘, OOP를 학습해왔으며,
-
-현재는 클린코드, DevOps에 관심이 많습니다!
-
-또한, 백엔드 개발자로서 개발 능력만큼 중요한 것이 커뮤니케이션 능력이라고 생각합니다.
-
-저는 4년간 공연안내원으로 일하면서 세심한 의사소통 능력을 길렀으며, 이 경험을 바탕으로 다양한 직군의 사람들과 원활하게 소통할 수 있는 능력을 키웠습니다.
+Hello ~ 
 
 ## 🛠 Skill 🛠 
 
@@ -27,14 +19,15 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, OOP를 학습해
 
 ### [InstaGram]
 
-- 기본적인 게시판 만들기로 시작하여 학습한 내용을 프로젝트에 적용시켜 발전시킨 프로젝트 입니다.
-- ERD 설계부터 기능 개발, 테스트 코드 작성, EC2와 Jenkins를 이용한 CI/CD 까지 주니어 백엔드 개발자가 되기위한 능력을 갖추는 것이 목표
+- This project started with creating a basic bulletin board and evolved by applying the knowledge gained through learning.
+
+- The goal is to acquire the necessary skills to become a junior backend developer, including ERD design, feature development, test code writing, and implementing CI/CD using EC2 and Jenkins
 
 - [Repository](https://github.com/JinGyuGwak/instaCloneCoding)
 
 ## Education 
-- 2017.03 ~ 2023.02 인천대학교 컴퓨터공학부 졸업
-- 2022.09 ~ 2023.03 SK플래닛 T아카데미 ASAC 웹풀스택 과정 1기 
+- 2017.03 ~ 2023.02 Department of Computer Science, Incheon National University
+- 2023.05 ~ BackEnd Developer
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsrb2695)](https://solved.ac/wlsrb2695/)
